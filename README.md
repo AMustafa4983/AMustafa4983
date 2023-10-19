@@ -32,6 +32,6 @@
 
 [![medium](https://img.shields.io/badge/mediuem-000000?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/AMustafa4983)
 
-[![Kaggle](https://img.shields.io/badge/kaggle-ffffff?style=for-the-badge&logo=kaggle&logoColor=black)](https://kaggle.com/AMustafa4983)
+[![Kaggle](https://img.shields.io/badge/kaggle-ffffff?style=for-the-badge&logo=kaggle&logoColor=blue)](https://kaggle.com/AMustafa4983)
 
 
