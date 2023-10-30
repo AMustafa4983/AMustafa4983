@@ -1,6 +1,6 @@
 
 <h1 align="center">Hi 👋, I'm Abdelrahman</h1>
-<h3 align="center">🚀 AI Researcher & Software Engineer @ FARIL-MGH 🌟 Passionate about elegant solutions to complex problems. Let's explore possibilities! 🌌</h3>
+<h3 align="center">🚀 AI Researcher & Software Engineer 🌟 Passionate about elegant solutions to complex problems. Let's explore possibilities! 🌌</h3>
 
 
 - 📝 I regularly write articles on [Medium.com/@AMustafa4983](Medium.com/@AMustafa4983)
